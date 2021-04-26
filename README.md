@@ -8,6 +8,7 @@ List of attended seminars together with training resources (if public)
 |-------|--------|------|
 | Learning Docker | LinkedIn Learning | April 25, 2021 |
 | Learning Puppet | LinkedIn Learning | April 22, 2021 |
+| AWS Cloud Practitioner Essentials | AWS Training and Certification | April 14, 2021 |
 | Learning Ansible | LinkedIn Learning | April 5, 2021 |
 | The Essentials - Test Automation Bootcamp | Ministry of Testing Philippines | November 21, 28 and December 5, 2020|
 | McKinsey Telco 101 Training Series | McKinsey & Company | March 26, 2020 and April 2 - 29, 2020 |
