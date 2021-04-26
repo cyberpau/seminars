@@ -6,6 +6,9 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issuer | Date |
 |-------|--------|------|
+| Learning Docker | LinkedIn Learning | April 25, 2021 |
+| Learning Puppet | LinkedIn Learning | April 22, 2021 |
+| Learning Ansible | LinkedIn Learning | April 5, 2021 |
 | The Essentials - Test Automation Bootcamp | Ministry of Testing Philippines | November 21, 28 and December 5, 2020|
 | McKinsey Telco 101 Training Series | McKinsey & Company | March 26, 2020 and April 2 - 29, 2020 |
 | Google Cloud Essentials | Qwiklabs Online Training | April 2020 |
@@ -20,6 +23,7 @@ List of attended seminars together with training resources (if public)
 ## Methodologies
 | Title | Issuer | Date |
 |-------|--------|------|
+| DevOps Foundations | LinkedIn Learning | March 23, 2021 |
 | Embrace the Power of Data Governance | Trends and Technologies, Inc. | December 10, 2020 |
 | Fujitsu Sense and Respond Training (Lean) | Fujitsu Philippines GDC (WeServ) | July 2019 - August 2019 |
 | Agile SAFe Framework | Fujitsu Americas Inc. | July 2019 - August 2019 |
