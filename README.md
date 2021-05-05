@@ -7,6 +7,7 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| DevOps Foundation: Continuous Delivery / Continuous Integration | LinkedIn Learning | May 5, 2021 |
 | Learning Docker | LinkedIn Learning | April 25, 2021 |
 | Learning Puppet | LinkedIn Learning | April 22, 2021 |
 | AWS Cloud Practitioner Essentials | AWS Training and Certification | April 14, 2021 |
@@ -30,7 +31,6 @@ List of attended seminars together with training resources (if public)
 ## Methodologies
 | Title | Issued By | Date |
 |-------|-----------|------|
-| DevOps Foundation: Continuous Delivery / Continuous Integration | LinkedIn Learning | May 5, 2021 |
 | DevOps Foundations | LinkedIn Learning | March 23, 2021 |
 | Embrace the Power of Data Governance | Trends and Technologies, Inc. | December 10, 2020 |
 | Fujitsu Sense and Respond Training (Lean) | Fujitsu Philippines GDC (WeServ) | July 2019 - August 2019 |
