@@ -1,6 +1,7 @@
 # Seminars and Trainings
 List of attended seminars together with training resources (if public)
 
+<BR>
 
 ## Technical
 
@@ -16,15 +17,22 @@ List of attended seminars together with training resources (if public)
 | Google Cloud Next '19 | Google Developer Group (GDG) Manila | June 2019 |
 | DEVCON: Java Code Camp for Professionals | DEVCON in partnership with Accenture Philippines | April 2019 |
 
+<BR>
+
 ## Leadership
 | Title | Issuer | Date |
 |-------|--------|------|
 | Development Program for New First Line Managers | Fujitsu Philippines GDC (WeServ) | May 2019 - December 2019 |
 
+<BR>
+
 ## Methodologies
 | Title | Issuer | Date |
 |-------|--------|------|
+| DevOps Foundation: Continuous Delivery / Continuous Integration | LinkedIn Learning | May 5, 2021 |
 | DevOps Foundations | LinkedIn Learning | March 23, 2021 |
 | Embrace the Power of Data Governance | Trends and Technologies, Inc. | December 10, 2020 |
 | Fujitsu Sense and Respond Training (Lean) | Fujitsu Philippines GDC (WeServ) | July 2019 - August 2019 |
 | Agile SAFe Framework | Fujitsu Americas Inc. | July 2019 - August 2019 |
+
+<BR>
