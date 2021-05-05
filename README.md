@@ -5,8 +5,8 @@ List of attended seminars together with training resources (if public)
 
 ## Technical
 
-| Title | Issuer | Date |
-|-------|--------|------|
+| Title | Issued By | Date |
+|-------|-----------|------|
 | Learning Docker | LinkedIn Learning | April 25, 2021 |
 | Learning Puppet | LinkedIn Learning | April 22, 2021 |
 | AWS Cloud Practitioner Essentials | AWS Training and Certification | April 14, 2021 |
@@ -20,15 +20,16 @@ List of attended seminars together with training resources (if public)
 <BR>
 
 ## Leadership
-| Title | Issuer | Date |
-|-------|--------|------|
+| Title | Issued By | Date |
+|-------|-----------|------|
 | Development Program for New First Line Managers | Fujitsu Philippines GDC (WeServ) | May 2019 - December 2019 |
+| 19th Student Congress | Southern Luzon State University | October 23 - 25, 2015 |
 
 <BR>
 
 ## Methodologies
-| Title | Issuer | Date |
-|-------|--------|------|
+| Title | Issued By | Date |
+|-------|-----------|------|
 | DevOps Foundation: Continuous Delivery / Continuous Integration | LinkedIn Learning | May 5, 2021 |
 | DevOps Foundations | LinkedIn Learning | March 23, 2021 |
 | Embrace the Power of Data Governance | Trends and Technologies, Inc. | December 10, 2020 |
@@ -36,3 +37,10 @@ List of attended seminars together with training resources (if public)
 | Agile SAFe Framework | Fujitsu Americas Inc. | July 2019 - August 2019 |
 
 <BR>
+
+## Organization Affiliations
+
+| Organization Name | Position | Date |
+|-------------------|----------|------|
+| Society of Computer Engineering Students (SCoPES) | Auditor | S.Y. 2015 - S.Y. 2016 |
+| Integrated Computer Engineering Society (ICoEnS) | Public Relationship Officer | S.Y. 2014 - S.Y. 2015 |
