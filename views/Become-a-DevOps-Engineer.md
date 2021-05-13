@@ -7,7 +7,8 @@
 ## Courses:
 
 | Title | Date Completed | Certificate |
-|-------|-----------|------|
+|-------|----------------|-------------|
+| DevOps Foundations: Lean and Agile | May 13, 2021 | [View](#) |
 | Learning Software Version Control | May 12, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Software%20Version%20Control.pdf)
 | Learning Jenkins | May 11, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Jenkins.pdf) |
 | Kubernetes: Cloud Native Ecosystem | May 6, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Kubernetes%20Cloud%20Native%20Ecosystem.pdf) |

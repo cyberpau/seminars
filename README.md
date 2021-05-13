@@ -23,21 +23,22 @@ List of attended seminars together with training resources (if public)
 
 <BR>
 
+## Methodologies
+| Title | Issued By | Date |
+|-------|-----------|------|
+| DevOps Foundations: Lean and Agile | LinkedIn Learning | May 13, 2021 |
+| DevOps Foundations | LinkedIn Learning | March 23, 2021 |
+| Embrace the Power of Data Governance | Trends and Technologies, Inc. | December 10, 2020 |
+| Fujitsu Sense and Respond Training (Lean) | Fujitsu Philippines GDC (WeServ) | July 2019 - August 2019 |
+| Agile SAFe Framework | Fujitsu Americas Inc. | July 2019 - August 2019 |
+
+<BR>
+
 ## Leadership
 | Title | Issued By | Date |
 |-------|-----------|------|
 | Development Program for New First Line Managers | Fujitsu Philippines GDC (WeServ) | May 2019 - December 2019 |
 | 19th Student Congress | Southern Luzon State University | October 23 - 25, 2015 |
-
-<BR>
-
-## Methodologies
-| Title | Issued By | Date |
-|-------|-----------|------|
-| DevOps Foundations | LinkedIn Learning | March 23, 2021 |
-| Embrace the Power of Data Governance | Trends and Technologies, Inc. | December 10, 2020 |
-| Fujitsu Sense and Respond Training (Lean) | Fujitsu Philippines GDC (WeServ) | July 2019 - August 2019 |
-| Agile SAFe Framework | Fujitsu Americas Inc. | July 2019 - August 2019 |
 
 <BR>
 
