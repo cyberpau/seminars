@@ -8,6 +8,7 @@
 
 | Title | Date Completed | Certificate |
 |-------|----------------|-------------|
+| Lean Technology Strategy: Running Agile at Scale | May 14, 2021 | [View](#) |
 | DevOps Foundations: Lean and Agile | May 13, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20Lean%20and%20Agile.pdf) |
 | Learning Software Version Control | May 12, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Software%20Version%20Control.pdf)
 | Learning Jenkins | May 11, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Jenkins.pdf) |

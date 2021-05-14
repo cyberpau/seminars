@@ -26,6 +26,7 @@ List of attended seminars together with training resources (if public)
 ## Methodologies
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Lean Technology Strategy: Running Agile at Scale | LinkedIn Learning | May 14, 2021 |
 | DevOps Foundations: Lean and Agile | LinkedIn Learning | May 13, 2021 |
 | DevOps Foundations | LinkedIn Learning | March 23, 2021 |
 | Embrace the Power of Data Governance | Trends and Technologies, Inc. | December 10, 2020 |
