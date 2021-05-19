@@ -8,7 +8,7 @@
 
 | Title | Date Completed | Certificate |
 |-------|----------------|-------------|
-| DevOps Foundations: Monitoring and Observability | May 19, 2021 | [View](#) |
+| DevOps Foundations: Monitoring and Observability | May 19, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20Monitoring%20and%20Observability.pdf) |
 | Lean Technology Strategy: Building High-Performing Teams | May 14, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Building%20HighPerforming%20Teams.pdf) |
 | Lean Technology Strategy: Running Agile at Scale | May 14, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Running%20Agile%20at%20Scale.pdf) |
 | DevOps Foundations: Lean and Agile | May 13, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20Lean%20and%20Agile.pdf) |
