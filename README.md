@@ -26,6 +26,8 @@ List of attended seminars together with training resources (if public)
 ## Methodologies
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Lean Technology Strategy: Starting Your Business Transformation | LinkedIn Learning | May 19, 2021 |
+| DevOps Foundations: Monitoring and Observability | LinkedIn Learning | May 19, 2021 |
 | Lean Technology Strategy: Building High-Performing Teams | LinkedIn Learning | May 14, 2021 |
 | Lean Technology Strategy: Running Agile at Scale | LinkedIn Learning | May 14, 2021 |
 | DevOps Foundations: Lean and Agile | LinkedIn Learning | May 13, 2021 |
