@@ -7,6 +7,7 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Learning the Elastic Stack | LinkedIn Learning | May 22, 2021 |
 | Learning Software Version Control | LinkedIn Learning | May 12, 2021 |
 | Learning Jenkins | LinkedIn Learning | May 11, 2021 |
 | Kubernetes: Cloud Native Ecosystem | LinkedIn Learning | May 6, 2021 |
