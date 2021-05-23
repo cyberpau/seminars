@@ -8,6 +8,7 @@
 
 | Title | Date Completed | Certificate |
 |-------|----------------|-------------|
+| | Lean Technology Strategy: Moving Fast With Defined Constraints | May 23, 2021 | [View](#) |
 | Learning the Elastic Stack | May 22, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20the%20Elastic%20Stack.pdf) |
 | Lean Technology Strategy: Starting Your Business Transformation | May 19, 2021 | [View](#)
 | DevOps Foundations: Monitoring and Observability | May 19, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20Monitoring%20and%20Observability.pdf) |
