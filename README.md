@@ -7,6 +7,8 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| DevOps Foundations: DevSecOps | LinkedIn Learning | May 23, 2021 |
+| Lean Technology Strategy: Moving Fast With Defined Constraints | LinkedIn Learning | May 23, 2021 |
 | Learning the Elastic Stack | LinkedIn Learning | May 22, 2021 |
 | Learning Software Version Control | LinkedIn Learning | May 12, 2021 |
 | Learning Jenkins | LinkedIn Learning | May 11, 2021 |
