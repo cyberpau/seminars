@@ -8,7 +8,7 @@
 
 | Title | Date Completed | Certificate |
 |-------|----------------|-------------|
-| Learning Kubernetes | March 25, 2021 | [View](#) |
+| Learning Kubernetes | March 25, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Kubernetes.pdf) |
 | DevOps Foundations: DevSecOps | May 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20DevSecOps.pdf) |
 | Lean Technology Strategy: Moving Fast With Defined Constraints | May 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Moving%20Fast%20With%20Defined%20Constraints.pdf) |
 | Learning the Elastic Stack | May 22, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20the%20Elastic%20Stack.pdf) |
