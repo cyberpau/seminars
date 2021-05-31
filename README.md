@@ -7,6 +7,7 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Kubernetes: Microservice | LinkedIn Learning | March 31, 2021 |
 | Learning Kubernetes | LinkedIn Learning | March 25, 2021 |
 | DevOps Foundations: DevSecOps | LinkedIn Learning | May 23, 2021 |
 | Lean Technology Strategy: Moving Fast With Defined Constraints | LinkedIn Learning | May 23, 2021 |
