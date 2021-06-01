@@ -14,7 +14,7 @@
 | DevOps Foundations: DevSecOps | May 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20DevSecOps.pdf) |
 | Lean Technology Strategy: Moving Fast With Defined Constraints | May 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Moving%20Fast%20With%20Defined%20Constraints.pdf) |
 | Learning the Elastic Stack | May 22, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20the%20Elastic%20Stack.pdf) |
-| Lean Technology Strategy: Starting Your Business Transformation | May 19, 2021 | [View](#)
+| Lean Technology Strategy: Starting Your Business Transformation | May 19, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Starting%20Your%20Business%20Transformation.pdf)
 | DevOps Foundations: Monitoring and Observability | May 19, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20Monitoring%20and%20Observability.pdf) |
 | Lean Technology Strategy: Building High-Performing Teams | May 14, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Building%20HighPerforming%20Teams.pdf) |
 | Lean Technology Strategy: Running Agile at Scale | May 14, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Running%20Agile%20at%20Scale.pdf) |
