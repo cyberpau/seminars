@@ -8,7 +8,7 @@
 
 | Title | Date Completed | Certificate |
 |-------|----------------|-------------|
-| DevOps Foundations: Infrastructure as Code | June 1, 2021 | [View](#) |
+| DevOps Foundations: Infrastructure as Code | June 1, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20Infrastructure%20as%20Code.pdf) |
 | Kubernetes: Microservice |  March 31, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Kubernetes%20Microservices.pdf) |
 | Learning Kubernetes | March 25, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Kubernetes.pdf) |
 | DevOps Foundations: DevSecOps | May 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20DevSecOps.pdf) |
