@@ -7,6 +7,7 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| DevSecOps: Building a Secure Continuous Delivery Pipeline | LinkedIn Learning | June 2, 2021 |
 | Kubernetes: Microservice | LinkedIn Learning | May 31, 2021 |
 | Learning Kubernetes | LinkedIn Learning | May 25, 2021 |
 | DevOps Foundations: DevSecOps | LinkedIn Learning | May 23, 2021 |
