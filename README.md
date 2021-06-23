@@ -7,11 +7,13 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Learning Chef | LinkedIn Learning | June 23, 2021 |
 | DevSecOps: Building a Secure Continuous Delivery Pipeline | LinkedIn Learning | June 2, 2021 |
 | Kubernetes: Microservice | LinkedIn Learning | May 31, 2021 |
 | Learning Kubernetes | LinkedIn Learning | May 25, 2021 |
 | DevOps Foundations: DevSecOps | LinkedIn Learning | May 23, 2021 |
 | Lean Technology Strategy: Moving Fast With Defined Constraints | LinkedIn Learning | May 23, 2021 |
+| PH TechWeek 2021 | Philippine Tech Communities | May 17 - 22, 2021 |
 | Learning the Elastic Stack | LinkedIn Learning | May 22, 2021 |
 | Learning Software Version Control | LinkedIn Learning | May 12, 2021 |
 | Learning Jenkins | LinkedIn Learning | May 11, 2021 |
