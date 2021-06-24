@@ -8,6 +8,7 @@
 
 | Title | Date Completed | Certificate |
 |-------|----------------|-------------|
+| Learning Nagios | June 24, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Nagios.pdf) |
 | Learning Chef | June 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Chef.pdf) |
 | DevSecOps: Building a Secure Continuous Delivery Pipeline | June 2, 2021 | [View](#) |
 | DevOps Foundations: Infrastructure as Code | June 1, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_DevOps%20Foundations%20Infrastructure%20as%20Code.pdf) |

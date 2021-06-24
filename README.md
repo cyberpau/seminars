@@ -34,6 +34,7 @@ List of attended seminars together with training resources (if public)
 ## Methodologies
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Learning Nagios | LinkedIn Learning | June 24, 2021 |
 | Lean Foundation | LinkedIn Learning | June 23, 2021 |
 | DevOps Foundations: Infrastructure as Code | LinkedIn Learning | June 1, 2021 |
 | Lean Technology Strategy: Starting Your Business Transformation | LinkedIn Learning | May 19, 2021 |
