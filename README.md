@@ -7,6 +7,7 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Graphite and Grafana: Visualizing Application Performance | LinkedIn Learning | June 26, 2021 |
 | Learning Chef | LinkedIn Learning | June 23, 2021 |
 | DevSecOps: Automated Security Testing | LinkedIn Learning | June 8, 2021 |
 | DevSecOps: Building a Secure Continuous Delivery Pipeline | LinkedIn Learning | June 2, 2021 |
@@ -37,7 +38,6 @@ List of attended seminars together with training resources (if public)
 |-------|-----------|------|
 | Become a DevOps Engineer | LinkedIn Learning Path | June 26, 2021 |
 | DevOps Foundations: Site Reliability Engineering | LinkedIn Learning |June 26, 2021 |
-| Graphite and Grafana: Visualizing Application Performance | LinkedIn Learning | June 26, 2021 |
 | Learning Nagios | LinkedIn Learning | June 24, 2021 |
 | Lean Foundation | LinkedIn Learning | June 23, 2021 |
 | DevOps Foundations: Infrastructure as Code | LinkedIn Learning | June 1, 2021 |

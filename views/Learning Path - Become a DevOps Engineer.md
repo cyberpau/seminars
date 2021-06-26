@@ -2,12 +2,13 @@
 
 **Description:** Learn about infrastucture automation, lean and agile transformation, security, monitoring, and site reliability engineering.
 
-**Total Hours:** 40 hours
+**Total Hours:** 40 hours 40 minutes
 
 ## Courses:
 
 | Title | Date Completed | Certificate |
 |-------|----------------|-------------|
+| Graphite and Grafana: Visualizing Application Performance | June 26, 2021 | [View](#) |
 | DevOps Foundations: Site Reliability Engineering | June 26, 2021 | [View](#) |
 | Learning Nagios | June 24, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Nagios.pdf) |
 | Learning Chef | June 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Learning%20Chef.pdf) |
