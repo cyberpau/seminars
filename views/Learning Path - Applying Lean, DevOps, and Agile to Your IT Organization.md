@@ -6,6 +6,7 @@
 
 | Title | Date Completed | Certificate |
 |-------|----------------|-------------|
+| Graphite and Grafana: Visualizing Application Performance | June 26, 2021 | [View](#) |
 | Lean Foundation | June 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Foundations.pdf) |
 | Lean Technology Strategy: Moving Fast With Defined Constraints | May 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Moving%20Fast%20With%20Defined%20Constraints.pdf) |
 | Lean Technology Strategy: Starting Your Business Transformation | May 19, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Starting%20Your%20Business%20Transformation.pdf) |
