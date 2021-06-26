@@ -8,6 +8,7 @@ List of attended seminars together with training resources (if public)
 | Title | Issued By | Date |
 |-------|-----------|------|
 | Learning Chef | LinkedIn Learning | June 23, 2021 |
+| DevSecOps: Automated Security Testing | LinkedIn Learning | June 8, 2021 |
 | DevSecOps: Building a Secure Continuous Delivery Pipeline | LinkedIn Learning | June 2, 2021 |
 | Kubernetes: Microservice | LinkedIn Learning | May 31, 2021 |
 | Learning Kubernetes | LinkedIn Learning | May 25, 2021 |
