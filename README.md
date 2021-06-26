@@ -34,6 +34,8 @@ List of attended seminars together with training resources (if public)
 ## Methodologies
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Become a DevOps Engineer | LinkedIn Learning Path | June 26, 2021 |
+| DevOps Foundations: Site Reliability Engineering | LinkedIn Learning |June 26, 2021 |
 | Graphite and Grafana: Visualizing Application Performance | LinkedIn Learning | June 26, 2021 |
 | Learning Nagios | LinkedIn Learning | June 24, 2021 |
 | Lean Foundation | LinkedIn Learning | June 23, 2021 |
