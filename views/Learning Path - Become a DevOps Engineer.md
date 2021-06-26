@@ -4,6 +4,10 @@
 
 **Total Hours:** 40 hours 40 minutes
 
+![Become a DevOps Engineer](..\images\Become%20a%20DevOps%20Engineer.jpg)
+
+<BR><BR>
+
 ## Courses:
 
 | Title | Date Completed | Certificate |
