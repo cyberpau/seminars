@@ -4,7 +4,7 @@
 
 **Total Hours:** 40 hours 40 minutes
 
-![Become a DevOps Engineer](..\images\Become%20a%20DevOps%20Engineer.jpg)
+![Become a DevOps Engineer](https://raw.githubusercontent.com/cyberpau/seminars/main/images/Become%20a%20DevOps%20Engineer.jpg)
 
 <BR><BR>
 
