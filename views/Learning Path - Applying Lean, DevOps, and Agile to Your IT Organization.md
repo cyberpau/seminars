@@ -1,12 +1,14 @@
-# Applying Lean, DevOps, and Agile to Your IT Organization
+# [Applying Lean, DevOps, and Agile to Your IT Organization](https://www.linkedin.com/learning/paths/applying-lean-devops-and-agile-to-your-it-organization)
 
 **Description:** Discover how you can put lean, agile, and DevOps concepts into practice in your organization. Explore lean, agile, and DevOps concepts. 
 
 **Total Hours:** 7 hours 41 minutes
 
+![Applying Lean, DevOps, and Agile to Your IT Organization](https://raw.githubusercontent.com/cyberpau/seminars/main/images/Become%20a%20DevOps%20Engineer.jpg)
+
 | Title | Date Completed | Certificate |
 |-------|----------------|-------------|
-| Graphite and Grafana: Visualizing Application Performance | June 26, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Graphite%20and%20Grafana%20Visualizing%20Application%20Performance.pdf) |
+| Agile Software Development | July 6, 2021 | [View]() |
 | Lean Foundation | June 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Foundations.pdf) |
 | Lean Technology Strategy: Moving Fast With Defined Constraints | May 23, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Moving%20Fast%20With%20Defined%20Constraints.pdf) |
 | Lean Technology Strategy: Starting Your Business Transformation | May 19, 2021 | [View](https://github.com/cyberpau/seminars/blob/main/certificates/2021/CertificateOfCompletion_Lean%20Technology%20Strategy%20Starting%20Your%20Business%20Transformation.pdf) |
