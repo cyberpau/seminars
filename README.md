@@ -7,6 +7,7 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Microsoft Power Platform Foundations | LinkedIn Learning | July 22, 2021 |
 | Agile Software Development | LinkedIn Learning | July 6, 2021 |
 | Graphite and Grafana: Visualizing Application Performance | LinkedIn Learning | June 26, 2021 |
 | Learning Chef | LinkedIn Learning | June 23, 2021 |
