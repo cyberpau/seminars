@@ -38,6 +38,7 @@ List of attended seminars together with training resources (if public)
 ## Methodologies
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Certificate of Proficiency in Data Protection and GRC | Straits Interactive | August 11 - 13, 2021 |
 | DevOps Foundations: Incident Management | LinkedIn Learning | July 15, 2021 |
 | Become a DevOps Engineer | LinkedIn Learning Path | June 26, 2021 |
 | DevOps Foundations: Site Reliability Engineering | LinkedIn Learning |June 26, 2021 |
