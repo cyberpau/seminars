@@ -38,6 +38,7 @@ List of attended seminars together with training resources (if public)
 ## Methodologies
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Software Project Management Foundations | LinkedIn Learning | November 22, 2021 |
 | Project Management Foundations: Requirement  | LinkedIn Learning | November 16, 2021 |
 | Project Management Foundations | LinkedIn Learning | October 30, 2021 |
 | Certificate of Proficiency in Data Protection and GRC | Straits Interactive | August 11 - 13, 2021 |
