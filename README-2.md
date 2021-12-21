@@ -1,5 +1,13 @@
 # Seminars, Trainings and Certifications
 
+## [Microsoft Learn Portfolio ](https://docs.microsoft.com/en-us/users/cyberpau/achievements)
+
+<iframe src="https://docs.microsoft.com/en-us/users/cyberpau/achievements" title="MS Learn Achievements" width="100%"></iframe>
+
+## Qwiklabs Portfolio
+
+## 
+
 ## LinkedIn Learning Paths:
 | Course Title | Date Completed | Certificate |
 |--------------|----------------|-------------|
