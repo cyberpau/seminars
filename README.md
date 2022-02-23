@@ -1,9 +1,10 @@
 # Seminars, Trainings and Certifications
 
-This `README.md` showcases my favorites. For the full list of seminars, trainings and certifications, please check [`all-trainings-tabular.md`](all-trainings-tabular.md)
+## List of All Trainings and Certificates
+[`all-trainings-tabular.md`](all-trainings-tabular.md)
 
 
-## Favorite Certificates:
+## Highlighted Trainings:
 | Certificate | Topics Covered |
 |-------------|----------------|
 |<img width=100% src="certificates\2019\Fujitsu-E3-Development-Program-for-New-First-Line-Managers.jpg"></img><BR> **Title:** Engage, Enable, Empower: Development Program for New First Line Managers <BR> **Completion Date:** August 2021 - December 2021 <BR> **Issued By:** Fujitsu Philippines GDC | <ul><li>Leadership</li><li>Personal Development</li><li>Feedback and Coaching</li><li>Motivating Others</li></ul>
