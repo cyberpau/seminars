@@ -7,6 +7,7 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Microsoft Power Platform Virtual Training Day: Fundamentals | Microsoft | March 9, 2022 |
 | Global Power Platform Bootcamp Training | Power Platform Community PH and New Delhi | February 18 - 19, 2022 |
 | Microsoft Power Platform Foundations | LinkedIn Learning | July 22, 2021 |
 | Agile Software Development | LinkedIn Learning | July 6, 2021 |
