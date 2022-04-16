@@ -13,6 +13,7 @@
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| [Business Applications Cloud Week — Microsoft Power Platform Functional Consultant Participant](https://www.credly.com/badges/9e0e065c-8f88-4618-9758-96271e13ceb5) | Microsoft Global Partner Solutions (MGPS) | April 4 - 8, 2022 |
 | Microsoft Power Platform Foundations | LinkedIn Learning | July 22, 2021 |
 | Agile Software Development | LinkedIn Learning | July 6, 2021 |
 | Graphite and Grafana: Visualizing Application Performance | LinkedIn Learning | June 26, 2021 |
