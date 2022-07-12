@@ -13,6 +13,8 @@
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| [Learning Linux Basic Course ](#) | KodeKloud | July 11, 2022 |
+| [DevOps Pre-requisite Course](#) | KodeKloud | June 16, 2022 |
 | [Software Architecture Foundations](https://github.com/cyberpau/seminars/blob/main/certificates/2022/CertificateOfCompletion_Software%20Architecture%20Foundations.pdf) | LinkedIn Learning | June 2, 2022 |
 | [Microsoft Certified: Power Platform Fundamentals](https://www.credly.com/badges/eeafb935-a65d-46ee-b350-9ff55259979f/public_url) | Microsoft | April 16, 2022 |
 | [Business Applications Cloud Week — Microsoft Power Platform Functional Consultant Participant](https://www.credly.com/badges/9e0e065c-8f88-4618-9758-96271e13ceb5) | Microsoft Global Partner Solutions (MGPS) | April 4 - 8, 2022 |
