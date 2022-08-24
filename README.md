@@ -13,6 +13,7 @@
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| [BizApps Pinoy Citizen Summit](#) | BizApps PH Commmunity | August 13, 2022 |
 | [Learning Linux Basic Course ](#) | KodeKloud | July 11, 2022 |
 | [Global Cloud Native and OpenSource Summit](#) | GCOS | July 6, 2022 |
 | [DevOps Pre-requisite Course](#) | KodeKloud | June 16, 2022 |

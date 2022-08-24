@@ -7,6 +7,10 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| [BizApps Pinoy Citizen Summit](#) | BizApps PH Commmunity | August 13, 2022 |
+| [Learning Linux Basic Course ](#) | KodeKloud | July 11, 2022 |
+| [Global Cloud Native and OpenSource Summit](#) | GCOS | July 6, 2022 |
+| [DevOps Pre-requisite Course](#) | KodeKloud | June 16, 2022 |
 | Software Architecture Foundations | LinkedIn Learning | June 2, 2022 |
 | Microsoft Power Platform Virtual Training Day: Fundamentals | Microsoft | March 9, 2022 |
 | Global Power Platform Bootcamp Training | Power Platform Community PH and New Delhi | February 18 - 19, 2022 |
