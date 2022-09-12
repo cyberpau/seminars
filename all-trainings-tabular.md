@@ -7,6 +7,7 @@ List of attended seminars together with training resources (if public)
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| [Automating your AWS Infrastructure](#) | Edukasyon.PH | September 8, 2022 |
 | [BizApps Pinoy Citizen Summit](#) | BizApps PH Commmunity | August 13, 2022 |
 | [Learning Linux Basic Course ](#) | KodeKloud | July 11, 2022 |
 | [Global Cloud Native and OpenSource Summit](#) | GCOS | July 6, 2022 |
