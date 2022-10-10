@@ -13,7 +13,8 @@
 
 | Title | Issued By | Date |
 |-------|-----------|------|
-| [AWS Partner: Accreditation (Technical)](#) | AWS Partner Network | October 4, 2022 |
+| [AWS Partner: Cloud Economics Accreditation](#) | AWS Training and Certification | October 10, 2022 |
+| [AWS Partner: Accreditation (Technical)](#) | AWS Training and Certification | October 4, 2022 |
 | [Google Cloud Platform (GCP) Essential Training for Developers](https://www.linkedin.com/learning/certificates/84b5118f7b86294c78a90971dfef42b92eefab735d822e5e0c4bdcaba201c6c6?trk=share_certificate) | LinkedIn Learning | September 26, 2022 |
 | [AWS Community Ignite Series #57 Immutable Infrastructure on AWS](#) | BizApps PH Commmunity | August 13, 2022 |
 | [AWS Community Ignite Series #56 Automating your AWS Infrastructure](https://github.com/cyberpau/seminars/blob/main/certificates/2022/2022_09_12_Community%20Ignite%20Series%20%2356%20CSAT_John%20Paulo%20Mataac.png) | BizApps PH Commmunity | August 13, 2022 |
