@@ -13,6 +13,7 @@
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| [AWS Partner: Sales Accreditation (Business)](#) | AWS Training and Certification | October 11, 2022 |
 | [AWS Partner: Cloud Economics Accreditation](#) | AWS Training and Certification | October 10, 2022 |
 | [AWS Partner: Accreditation (Technical)](#) | AWS Training and Certification | October 4, 2022 |
 | [Google Cloud Platform (GCP) Essential Training for Developers](https://www.linkedin.com/learning/certificates/84b5118f7b86294c78a90971dfef42b92eefab735d822e5e0c4bdcaba201c6c6?trk=share_certificate) | LinkedIn Learning | September 26, 2022 |
