@@ -13,7 +13,7 @@
 
 | Title | Issued By | Date |
 |-------|-----------|------|
-| Jira Fundamentals Badge | Atlassian University Badge | October 10, 2022 |
+| Jira Fundamentals Badge | Atlassian University | October 11, 2022 |
 | [AWS Partner: Sales Accreditation (Business)](#) | AWS Training and Certification | October 11, 2022 |
 | [AWS Partner: Cloud Economics Accreditation](#) | AWS Training and Certification | October 10, 2022 |
 | [AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/fa0e96a4-dd61-4194-9274-46f6f67da015/public_url) | AWS Training and Certification | October 4, 2022 |
