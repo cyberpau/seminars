@@ -14,7 +14,7 @@
 | Title | Issued By | Date |
 |-------|-----------|------|
 | [Back End Development and APIs](https://www.freecodecamp.org/certification/cyberpau/back-end-development-and-apis) | freeCodeCamp | October 18, 2022 |
-| Jira Fundamentals Badge | Atlassian University | October 11, 2022 |
+| [Jira Fundamentals Badge](https://university.atlassian.com/student/award/PB7ti2NEgcHUKEXf7FwyX1on) | Atlassian University | October 11, 2022 |
 | [AWS Partner: Sales Accreditation (Business)](#) | AWS Training and Certification | October 11, 2022 |
 | [AWS Partner: Cloud Economics Accreditation](#) | AWS Training and Certification | October 10, 2022 |
 | [AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/fa0e96a4-dd61-4194-9274-46f6f67da015/public_url) | AWS Training and Certification | October 4, 2022 |
