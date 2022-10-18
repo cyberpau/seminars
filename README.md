@@ -13,6 +13,7 @@
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| Back End Development and APIs | freeCodeCamp | October 18, 2022 |
 | Jira Fundamentals Badge | Atlassian University | October 11, 2022 |
 | [AWS Partner: Sales Accreditation (Business)](#) | AWS Training and Certification | October 11, 2022 |
 | [AWS Partner: Cloud Economics Accreditation](#) | AWS Training and Certification | October 10, 2022 |
