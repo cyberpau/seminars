@@ -15,8 +15,8 @@
 |-------|-----------|------|
 | [Back End Development and APIs](https://www.freecodecamp.org/certification/cyberpau/back-end-development-and-apis) | freeCodeCamp | October 18, 2022 |
 | [Jira Fundamentals Badge](https://university.atlassian.com/student/award/PB7ti2NEgcHUKEXf7FwyX1on) | Atlassian University | October 11, 2022 |
-| [AWS Partner: Sales Accreditation (Business)](#) | AWS Training and Certification | October 11, 2022 |
-| [AWS Partner: Cloud Economics Accreditation](#) | AWS Training and Certification | October 10, 2022 |
+| [AWS Partner: Sales Accreditation (Business)](https://www.credly.com/badges/9565c975-294d-41d9-8083-3259e7e723cb/public_url) | AWS Training and Certification | October 11, 2022 |
+| [AWS Partner: Cloud Economics Accreditation](https://www.credly.com/badges/371bee0d-01f9-4a92-a2ad-12afec47486b/public_url) | AWS Training and Certification | October 10, 2022 |
 | [AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/fa0e96a4-dd61-4194-9274-46f6f67da015/public_url) | AWS Training and Certification | October 4, 2022 |
 | [Google Cloud Platform (GCP) Essential Training for Developers](https://www.linkedin.com/learning/certificates/84b5118f7b86294c78a90971dfef42b92eefab735d822e5e0c4bdcaba201c6c6?trk=share_certificate) | LinkedIn Learning | September 26, 2022 |
 | [AWS Community Ignite Series #57 Immutable Infrastructure on AWS](#) | BizApps PH Commmunity | August 13, 2022 |
