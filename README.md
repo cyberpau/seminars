@@ -13,6 +13,7 @@
 
 | Title | Issued By | Date |
 |-------|-----------|------|
+| [Confluence Fundamentals Badge](https://university.atlassian.com/student/award/V7o3f7djnsuE5bNNXp7XKUiS) | Atlassian University | October 24, 2022 |
 | [Back End Development and APIs](https://www.freecodecamp.org/certification/cyberpau/back-end-development-and-apis) | freeCodeCamp | October 18, 2022 |
 | [Jira Fundamentals Badge](https://university.atlassian.com/student/award/PB7ti2NEgcHUKEXf7FwyX1on) | Atlassian University | October 11, 2022 |
 | [AWS Partner: Sales Accreditation (Business)](https://www.credly.com/badges/9565c975-294d-41d9-8083-3259e7e723cb/public_url) | AWS Training and Certification | October 11, 2022 |
